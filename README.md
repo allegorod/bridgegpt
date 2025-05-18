@@ -59,4 +59,9 @@ So we started building the bridge.
 
 Updates in Official Telegram Channel >> https://t.me/bridgpt
 
-Concept, protocol design, and original term “BridgeGPT” by Alex (Andrewson) Gorodulin, Valeriya Persona-Kononenko 2025.
+---
+
+## Citation  
+BridgeGPT: Protocol for Meaning Alignment.  
+Alex (Andrewson) Gorodulin, 2025.  
+DOI: [10.5281/zenodo.15454490](https://doi.org/10.5281/zenodo.15454490)

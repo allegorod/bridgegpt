@@ -58,3 +58,5 @@ So we started building the bridge.
 #BridgeGPTWillBeBuilt
 
 Updates in Official Telegram Channel >> https://t.me/bridgpt
+
+Concept, protocol design, and original term “BridgeGPT” by Alex (Andrewson) Gorodulin, Valeriya Persona-Kononenko 2025.

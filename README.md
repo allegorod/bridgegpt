@@ -1,67 +1,64 @@
-# Bridge GPT
+# GPT Bridge
 
-Bridge GPT is a protocol for meaning alignment —  
-across people, teams, organizations, and governments.
-
-A bridge:  
-Between co-founders.  
-Between investors and visionaries.  
-Between meaning and execution.
-
-A place where each person brings something — and receives resonance.
+**The trust layer for ChatGPT.**  
+Connects people, problems, and possibilities through AI-powered intent matching.  
+Built on top of OpenAI models, designed for opportunity, not just answers.
 
 ---
 
-## What It Is
+## What It Does
 
-Bridge GPT is not a chatbot.  
-It’s not another prompt tool.  
-It’s a shared layer that listens, interprets, and connects human minds by logic, values, and intent.
+GPT Bridge listens to user intent, detects potential win–win opportunities between strangers, asks for mutual consent, and offers smart introductions.
 
-### Use Cases:
-- An investor searching for projects aligned with long-term vision
-- A founder expressing an idea that needs fuel and talent
-- A strategist looking for resonance, not noise
-- A team trying to think together — clearly, without the fog
+Think of it as:  
+– a connector  
+– a deal-sensing AI  
+– a trust-driven protocol for high-value interactions
 
----
-
-## How It Works (v0.1 concept)
-
-1. A person speaks their intent.
-2. GPT processes the signal — extracts themes, values, direction.
-3. The system matches this signal with others in the network (individuals, teams, projects).
-4. If mutual resonance is detected — GPT proposes a shared space (channel, document, map).
-5. The bridge holds the space: translates thought into action, connects roles, offers structure.
-
-This is a prototype of a Mindsync Layer —  
-a space where logic aligns before action begins.
+Use cases:  
+- Match investor with startup  
+- Introduce supplier to buyer  
+- Find verified service providers  
+- Close human-to-human loops inside AI
 
 ---
 
-## Status
+## Licensing & Use
 
-Currently being shaped.  
-No product yet. Just the protocol, the field, the call.
+**MIT License** – you may fork, remix, and build on this project freely.
+
+**But please note:**
+
+> This project was originally conceived, written, and publicly launched by  
+> **Valeria Persona** & **Alex Gorodulin**  
+> GitHub: [github.com/allegorod](https://github.com/allegorod)  
+> Telegram: [@bridgpt](https://t.me/bridgpt)  
+> DOI: [10.5281/zenodo.15454490](https://doi.org/10.5281/zenodo.15454490)
+
+### Commercial Use
+
+You are welcome to use this code.  
+**But if you plan to build a business around this idea, please:**
+- Respect the authorship
+- Reach out to collaborate
+- Credit the source
+
+We reserve the name **Bridge GPT**, **GPT Bridge** and **GPT Closer** as part of a broader vision and brand.
 
 ---
 
-## Looking For
+## Looking for
 
-The first layer is forming.  
-This is an open structure — add yourself where you fit.  
-
-We saw the brilliance. We saw it scattered.
-
-So we started building the bridge.
-
-#BridgeGPTWillBeBuilt
-
-Updates in Official Telegram Channel >> https://t.me/bridgpt
+We are open to:
+- Investors & aligned capital  
+- Pilots and early partners  
+- Open source contributors  
+- Legal, financial & product allies
 
 ---
 
-## Citation  
-BridgeGPT: Protocol for Meaning Alignment.  
-Alex (Andrewson) Gorodulin, 2025.  
-DOI: [10.5281/zenodo.15454490](https://doi.org/10.5281/zenodo.15454490)
+## Get in Touch
+
+Telegram: [@bridgpt](https://t.me/bridgpt)  
+GitHub Issues: open freely  
+Twitter/X: coming soon  

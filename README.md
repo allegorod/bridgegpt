@@ -62,3 +62,8 @@ We are open to:
 Telegram: [@bridgpt](https://t.me/bridgpt)  
 GitHub Issues: open freely  
 Twitter/X: coming soon  
+
+---
+
+See also: [FOUNDER.md](./founder.md), [COMMERCIAL.md](./COMMERCIAL.md), [VISION.md](./manifest.md)
+
